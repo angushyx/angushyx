@@ -6,7 +6,6 @@
 ✨
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angushyx&layout=compact&theme=algolia&card_width=445px)](https://github.com/anuraghazra/github-readme-stats) ✨
 
-
 👀 I’m interested in reading diving and exploring new things  
 🌱 I’m currently learning coding (HTML, CSS and Javascript)  
 📫 You can reach me by mailing to sickmi14798@gmail.com  
