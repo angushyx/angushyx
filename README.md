@@ -6,8 +6,8 @@
 🌱 I’m currently learning coding ( Next.js、typeScript、tailwindcss、Docker 、 AWS )   
 📫 You can reach me by mailing to sickmi14798@gmail.com  
 💞️ If you're looking for more about me, just take a look at my [blog](https://medium.com/@sickmi14798). I currently start a blog, writting about code learning 
+📇 MY Profile: https://www.angushyx.co/
 
-📇 Profile: https://www.angushyx.co/
 
 ![Angus Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=angushyx&hide=stars,prs&show_icons=true&theme=algolia)
 
